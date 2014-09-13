@@ -1,0 +1,10 @@
+C:\Users\anabela\Documents\GitHub\AddElementstoXmlFile\AddElementsToXmlFile\bin\Debug\CanadaTOC.exe.config
+C:\Users\anabela\Documents\GitHub\AddElementstoXmlFile\AddElementsToXmlFile\bin\Debug\CanadaTOC.exe
+C:\Users\anabela\Documents\GitHub\AddElementstoXmlFile\AddElementsToXmlFile\bin\Debug\CanadaTOC.pdb
+C:\Users\anabela\Documents\GitHub\AddElementstoXmlFile\AddElementsToXmlFile\bin\Debug\System.Web.Http.dll
+C:\Users\anabela\Documents\GitHub\AddElementstoXmlFile\AddElementsToXmlFile\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\anabela\Documents\GitHub\AddElementstoXmlFile\AddElementsToXmlFile\bin\Debug\System.Web.Http.xml
+C:\Users\anabela\Documents\GitHub\AddElementstoXmlFile\AddElementsToXmlFile\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\anabela\Documents\GitHub\AddElementstoXmlFile\AddElementsToXmlFile\obj\Debug\AddElementsToXmlFile.csprojResolveAssemblyReference.cache
+C:\Users\anabela\Documents\GitHub\AddElementstoXmlFile\AddElementsToXmlFile\obj\Debug\CanadaTOC.exe
+C:\Users\anabela\Documents\GitHub\AddElementstoXmlFile\AddElementsToXmlFile\obj\Debug\CanadaTOC.pdb
